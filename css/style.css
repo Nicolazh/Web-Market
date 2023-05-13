@@ -1,0 +1,31 @@
+.negrita {
+  color: black;
+}
+.bg-orange {
+  background-color: rgba(255, 145, 0, 0.747);
+}
+.color-white {
+  color: white;
+}
+.parallax {
+  height: 200px;
+  background-image: url(../images/textura_parallax.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.card-hover:hover {
+  color: rgb(86, 156, 223);
+  border-color: rgb(80, 80, 250);
+}
+.card-hover:hover li {
+  color: rgb(86, 156, 223);
+}
+.footer-tamaño {
+  height: 100px;
+  font-size: 25px;
+}
+.height-card {
+  height: 350px;
+}
